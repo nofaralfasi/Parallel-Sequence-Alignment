@@ -1,1 +1,1 @@
-# ParallelSequenceAlignment
+# Parallel-Sequence-Alignment
