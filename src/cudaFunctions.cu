@@ -1,5 +1,6 @@
 #include <cuda_runtime.h>
 #include <helper_cuda.h>
+#include "calculations.h"
 #include "cudaFunctions.h"
 
 // Kernel
